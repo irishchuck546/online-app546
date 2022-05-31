@@ -1,0 +1,11 @@
+Python implementation: CPython
+Python version       : 3.8.13
+IPython version      : 8.2.0
+
+Compiler    : Clang 12.0.1 
+OS          : Darwin
+Release     : 21.4.0
+Machine     : x86_64
+Processor   : i386
+CPU cores   : 8
+Architecture: 64bit
